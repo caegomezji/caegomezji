@@ -1,9 +1,6 @@
 # Mechatronics Engineer
 
-Mechatronics Engineer, Master in Electronics and Control, focused on the design of
-multidisciplinary solutions. I have more than 4 years of professional experience as a
-Technology Engineer, in charge of managing and developing innovative projects that provide
-solutions to both internal and external customers.
+Mechatronics Engineer with a Master's degree in Electronics and Control, focused on designing multidisciplinary solutions. Over seven years of professional experience as a Technology Engineer, managing and developing innovative projects to provide solutions for both internal and external customers.
 
 <a href="#gh-dark-mode-only">
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=caegomezji&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="caegomezji stats" width="55%"/>

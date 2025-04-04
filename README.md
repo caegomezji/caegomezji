@@ -36,14 +36,16 @@ System Engineer with dual engineering degrees in Control & Electronics and Mecha
 
 ## 📈 GitHub Stats
 
-<a href="#gh-dark-mode-only">
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=caegomezji&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="caegomezji stats" width="55%"/>
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caegomezji&layout=compact&theme=github_dark&include_all_commits=true&count_private=true" alt="caegomezji top languages" width="40%"/>
-</a>
-<a href="#gh-light-mode-only">
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=caegomezji&show_icons=true&include_all_commits=true&count_private=true" alt="caegomezji stats" width="55%"/>
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caegomezji&layout=compact&include_all_commits=true&count_private=true" alt="caegomezji top languages" width="40%"/>
-</a>
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <a href="#gh-dark-mode-only">
+     <img src="https://github-readme-stats.vercel.app/api?username=caegomezji&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="caegomezji stats" width="55%"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caegomezji&layout=compact&theme=github_dark&include_all_commits=true&count_private=true" alt="caegomezji top languages" width="40%"/>
+  </a>
+  <a href="#gh-light-mode-only">
+     <img src="https://github-readme-stats.vercel.app/api?username=caegomezji&show_icons=true&include_all_commits=true&count_private=true" alt="caegomezji stats" width="55%"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caegomezji&layout=compact&include_all_commits=true&count_private=true" alt="caegomezji top languages" width="40%"/>
+  </a>
+</div>
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/caegomezji)
